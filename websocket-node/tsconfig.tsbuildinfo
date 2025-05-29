@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/config/db.config.ts","./src/config/kafka.config.ts","./src/config/kafka.consumer.ts","./src/config/kafka.producer.ts","./src/config/redis.config.ts"],"version":"5.8.3"}
